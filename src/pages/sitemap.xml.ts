@@ -1,4 +1,4 @@
-// /sitemap.xml: every page of the site, so search engines find the topic pages (nothing on the site links them).
+// /sitemap.xml: every page of the site, for search engines.
 import type { APIRoute } from "astro";
 
 const pages = Object.keys(import.meta.glob("./**/index.astro"))
