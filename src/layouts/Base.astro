@@ -80,5 +80,9 @@ const fontFace = `@font-face{font-family:"Boom Pixel";src:url(${base}fonts/boom-
       );
       document.querySelectorAll<HTMLVideoElement>("video[data-lazy], video.lazy-play").forEach((v) => vio.observe(v));
     </script>
+    <!-- Cloudflare Web Analytics: cookieless, no consent banner needed. Production builds only, so `astro dev` visits aren't counted. -->
+    {import.meta.env.PROD && (
+      <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "b0467e56b3dc43a6bc7644175ff55021"}'></script>
+    )}
   </body>
 </html>
