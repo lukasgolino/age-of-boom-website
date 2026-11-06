@@ -6,4 +6,4 @@
 
 - [Home](https://ageofboom.online/): gameplay, modes, ships
 - Developer: Lukas Golino (https://lukasgolino.com/)
-- Tools it is built with: PAGAN (pixel art, https://pagan.top/), SEGAN (audio, https://segan.top/) and KILN (3D models, https://kiln3d.dev/)
+- Tools it is built with: PAGAN (pixel art, https://pagan.top/) and SEGAN (audio, https://segan.top/)
