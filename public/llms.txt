@@ -1,0 +1,9 @@
+# Age of Boom
+
+> Age of Boom is a loud, top-down pixel-art naval combat game for PC. Out-sail other captains, get your broadside on them first and sink them in a shower of splinters. Modes: online deathmatch, co-op Last Stand and solo voyages. Coming to Steam. Made by Lukas Golino in Godot 4, with art and audio built by PAGAN and SEGAN.
+
+## Links
+
+- [Home](https://ageofboom.online/): gameplay, modes, ships
+- Developer: Lukas Golino (https://lukasgolino.com/)
+- Tools it is built with: PAGAN (pixel art, https://pagan.top/) and SEGAN (audio, https://segan.top/)
