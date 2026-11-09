@@ -6,6 +6,13 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.3.2] - 2026-11-09
+
+### Fixed
+
+- The PAGAN links go to pagan.top instead of the GitHub repository
+  ([#13](https://github.com/lukasgolino/age-of-boom-website/issues/13)).
+
 ## [0.3.1] - 2026-11-09
 
 ### Added
@@ -50,7 +57,8 @@ All notable changes to this project are documented here. The format follows
   a GitHub release for each `vX.Y.Z` tag, refusing tags that don't match package.json or have no CHANGELOG
   section ([#3](https://github.com/lukasgolino/age-of-boom-website/issues/3)).
 
-[Unreleased]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.1...HEAD
+[Unreleased]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.2...HEAD
+[0.3.2]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.1...v0.3.2
 [0.3.1]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.0...v0.3.1
 [0.3.0]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.1.0...v0.2.0

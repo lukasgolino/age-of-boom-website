@@ -1,6 +1,6 @@
 // Site copy and game numbers. Numbers mirror ../age-of-boom/data/*.tres and GAME.md; update both together.
 
-export const PAGAN_URL = "https://github.com/lukasgolino/PAGAN"; // swap for the PAGAN website once it is live
+export const PAGAN_URL = "https://pagan.top/";
 export const STEAM_URL = ""; // Steam store page, once it exists ("" = "coming soon")
 export const PRIVACY_URL = "https://lukasgolino.com/privacy.html"; // shared privacy notice for all our sites
 export const LINKS: { label: string; href: string }[] = [
