@@ -7,7 +7,7 @@ import Gameplay from "../components/Gameplay.astro";
 import Gallery from "../components/Gallery.astro";
 import Sprite from "../components/Sprite.astro";
 import Shipyard from "../components/Shipyard.astro";
-import { AMMO, LINKS, MODES, PAGAN_URL, SEA, STEAM_URL } from "../lib/data";
+import { AMMO, LINKS, MODES, PAGAN_URL, PRIVACY_URL, SEA, STEAM_URL } from "../lib/data";
 
 const base = import.meta.env.BASE_URL;
 const icon = (n: string) => `${base}sprites/ui/icon_${n}.png`;
@@ -212,7 +212,7 @@ const seaLoops = [
   <footer class="foot">
     <div class="wrap foot-inner hud">
       <span>(c) {new Date().getFullYear()} Age of Boom</span>
-      <span>Art made with <a href={PAGAN_URL}>PAGAN</a> · <a href="https://lukasgolino.com/privacy.html">Privacy</a></span>
+      <span>Art made with <a href={PAGAN_URL}>PAGAN</a> · <a href={PRIVACY_URL}>Privacy</a></span>
     </div>
   </footer>
 </Base>
