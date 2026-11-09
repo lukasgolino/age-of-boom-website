@@ -1,6 +1,6 @@
 // Sanity checks on the built site (run after `npm run build`, with the same SITE_URL / SITE_BASE): the sitemap
 // lists exactly the built pages, robots.txt points to the sitemap,
-// and every page loads the analytics beacon.
+// and every page loads the analytics beacon and the Umami tag.
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 
