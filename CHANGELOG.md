@@ -6,6 +6,13 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.3.1] - 2026-11-09
+
+### Added
+
+- Footer link to the privacy notice at lukasgolino.com/privacy.html, which covers the analytics and hosting of all our
+  sites ([lukasgolino.github.io#16](https://github.com/lukasgolino/lukasgolino.github.io/issues/16)).
+
 ## [0.3.0] - 2026-11-09
 
 ### Added
@@ -43,7 +50,8 @@ All notable changes to this project are documented here. The format follows
   a GitHub release for each `vX.Y.Z` tag, refusing tags that don't match package.json or have no CHANGELOG
   section ([#3](https://github.com/lukasgolino/age-of-boom-website/issues/3)).
 
-[Unreleased]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.0...HEAD
+[Unreleased]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.1...HEAD
+[0.3.1]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.3.0...v0.3.1
 [0.3.0]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/lukasgolino/age-of-boom-website/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/lukasgolino/age-of-boom-website/releases/tag/v0.1.0
